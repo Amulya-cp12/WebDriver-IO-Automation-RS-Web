@@ -1,4 +1,4 @@
-Feature: Download CSV
+Feature: Download CSV file of orders
 
   Scenario: Download order csv successfully
 

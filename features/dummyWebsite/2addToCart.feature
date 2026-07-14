@@ -1,4 +1,4 @@
-Feature: Add Product
+Feature: Add Product to cart 
 
   Scenario: Add ZARA COAT 3 to cart
 
