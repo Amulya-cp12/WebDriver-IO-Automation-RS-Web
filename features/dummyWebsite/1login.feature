@@ -1,4 +1,4 @@
-Feature: Login Test
+Feature: Validation of Login functionality
 
   Scenario Outline: Successful login
 
